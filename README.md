@@ -26,7 +26,7 @@ This projuct can only be maintained and updated irregularly due to perosonal bus
 
 
 ## How to use
-* [Click here](https://colab.research.google.com/github/Ayanaminn/N46Whisper/blob/main/N46Whisper.ipynb) to open the notebook in Google Colab.
+* [Click here](https://colab.research.google.com/github/kae-mihara/N46Whisper/blob/main/N46Whisper.ipynb) to open the notebook in Google Colab.
 * Upload file and follow the instruction to run the notebook.
 * The subtitle file will be automatically downloaded once done.
 
