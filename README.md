@@ -1,4 +1,5 @@
 # N46Whisper
+* This fork is for personal use
 
 Language : English | [简体中文](./README_CN.md) 
 
